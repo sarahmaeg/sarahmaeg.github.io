@@ -1,0 +1,9 @@
+---
+layout: default
+img: sarah400.png
+category: Services
+title: Wholeness in movement
+description: |
+  <p class="lead">I am a Certified Laban/Bartenieff Movement Analyst (CLMA), an Ashtanga yoga teacher, and a dancer.  Through my extensive knowledge of all the components of human body movement I provide clients with movement education and therapy.  My knowledge applies to all forms of movement:  from the complex movement of athletes to the simplicity of a computer programmer sitting at a desk.  So if you have a body, it applies to you!  </p>
+
+---
