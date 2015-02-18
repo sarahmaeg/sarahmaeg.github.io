@@ -1,6 +1,6 @@
 ---
 layout: default
-img: sarah400.png
+img: ultra_happy_sarah_400x.png
 category: Services
 title: Wholeness in movement
 description: |

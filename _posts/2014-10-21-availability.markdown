@@ -1,6 +1,6 @@
 ---
 layout: default
-img: flower400x.png
+img: bw_pose400.png
 category: Services
 title: Availability
 description: |
