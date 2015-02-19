@@ -112,7 +112,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/flowers1900.jpg) no-repeat center center;
+    background: url(../img/flowers2_1900.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -157,10 +157,16 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 35px 0;
     background-color: #f8f8f8;
 }
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+
+.form-horizontal{
+    padding-top: 40px;
+
 }
